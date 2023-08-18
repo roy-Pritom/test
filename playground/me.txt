@@ -1,5 +1,0 @@
-
-Name: Pritom Roy
-Skills: HTML, CSS, JS, React.js,Node js,Express js,Mongodb,Firebase
-Email: pritom2414@gmail.com
-
